@@ -1,0 +1,21 @@
+body {
+  padding-top:80px;
+
+}
+
+.navbar-header,.navbar-brand {
+    height: 80px;
+    padding: 15px;
+    line-height: 50px;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+    color: #9d9d9d;
+    height: 80px;
+    padding: 15px;
+    line-height: 50px;
+}
+
+.carousel-inner > .item {
+  min-height: 600px;
+}
